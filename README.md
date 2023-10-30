@@ -6,14 +6,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/liusxle) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_._lm) 
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yong1le&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
-<p align="left">
 🔭 I’m currently working on <b>Various Websites</b> <br>
 🌱 I’m currently learning <b>Golang and Solidity</b><br>
 💬 Ask me about <b>Web Development</b> <br>
-</p>
-
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -36,4 +31,4 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yong1le&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
