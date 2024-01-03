@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_._lm) 
 
 🔭 I’m currently working on <b>Various Websites</b> <br>
-🌱 I’m currently learning <b>Golang and Solidity</b><br>
+🌱 I’m currently learning <b>Arduino and IoT</b><br>
 💬 Ask me about <b>Web Development</b> <br>
 <br>
 
