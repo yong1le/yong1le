@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Yong Le</h1>
-<p align="center"><b>Full Stack Developer</b></p>
+
 
 [![](https://visitcount.itsvg.in/api?id=yong1le&icon=0&color=0)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonglehe) 
