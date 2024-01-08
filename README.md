@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/liusxle) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_._lm) 
 
-🔭 I’m currently working on <b>Various Websites</b> <br>
+🔭 I’m currently working on <b>A data structure visualizer</b> <br>
 🌱 I’m currently learning <b>Arduino and IoT</b><br>
 💬 Ask me about <b>Web Development</b> <br>
 <br>
