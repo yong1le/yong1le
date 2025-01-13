@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_._lm) 
 
 🔭 I’m currently working on <b>Tush, an online image toolbox</b> <br>
-🌱 I’m currently learning <b>Arduino and IoT</b><br>
+🌱 I’m currently learning <b>AWS and Cloud</b><br>
 💬 Ask me about <b>Web Development</b> <br>
 <br>
 
