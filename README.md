@@ -6,8 +6,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/liusxle) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_._lm) 
 
-🔭 I’m currently working on <b>Tush, an online image toolbox</b> <br>
-🌱 I’m currently learning <b>AWS and Cloud</b><br>
+🔭 I’m currently working on <b>[lox-bytecode-vm](https://github.com/yong1le/bytecode_vm),  </b> an implementation of a Lox bytecode interpreter in rust<br>
+🌱 I’m currently learning <b>Rust</b><br>
 💬 Ask me about <b>Web Development</b> <br>
 <br>
 
